@@ -1,5 +1,7 @@
 Script to parse news articles from RSS feed and post it to phpbb 3.1.x forum
 
+```
+$ ./rss_reposter.pl --help
 Usage: ./rss_reposter.pl [ARGS]
 
 Mandatory arguments:
@@ -17,3 +19,4 @@ Optional arguments:
     --rss-url='http://www.opennet.ru/opennews/opennews_all_noadv.rss'
     --debug
 
+```
